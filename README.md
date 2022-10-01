@@ -119,11 +119,11 @@ systemctl restart wg-quick@wg0
 
 ## Telegram
 
-[DIY_VPN](https://t.me/jievpn)
+[JIEVPN](https://t.me/jievpn)
 
-[Group DIY-VPN](https://t.me/TtmGroupMy)
+[Group JIEVPN](https://t.me/TtmGroupMy)
 
-[Channel DIY-VPN](https://t.me/TtmChannelMy)
+[Channel JIEVPN](https://t.me/TtmChannelMy)
 
 ## Credit :
 
