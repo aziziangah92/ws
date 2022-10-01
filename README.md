@@ -134,6 +134,6 @@ systemctl restart wg-quick@wg0
 *   V2ray
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Copyright%20©-Diyvpn%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Copyright%20©-JIEVPN%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
     </p>
    </p>
