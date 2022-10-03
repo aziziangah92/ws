@@ -1,0 +1,50 @@
+流媒体解锁测试
+提示 本工具测试结果仅供参考，请以实际使用为准
+流媒体合租平台 https://jcnf.xyz/nf
+ ** 当前版本: v1.4.1
+ ** 系统时间: Thu 07 Apr 2022 02:47:07 PM +08
+ ** 正在测试IPv4解锁情况
+ ** ISP: parse error: Invalid numeric literal at line 1, column 7 [parse error: Invalid numeric literal at line 1, column 7 parse error: Invalid numeric literal at line 1, column 7]
+ HBO Now:				No
+ BBC:					No
+ MyTVSuper:				No
+ Now E:					No
+ Viu TV:				Failed (Network Connection)
+ Bahamut Anime:				No
+ BiliBili China Mainland Only:		No
+ BiliBili Hongkong/Macau/Taiwan:	No
+ Bilibili Taiwan Only:			No
+ Abema.TV:				No
+ Paravi:				No
+ U Next:				No
+ Hulu Japan:				No
+ Princess Connect Re:Dive Japan:	Yes
+ Pretty Derby Japan:			Yes
+ Kancolle Japan:			No
+ Dazn:					No
+ Netflix:				Yes(Region: MY)
+ YouTube Region:			MY
+ DisneyPlus:				No
+ Steam Currency:			MYR
+ ** 正在测试IPv6解锁情况
+ HBO Now:				Failed (Network Connection)
+ BBC:					Failed (Network Connection)
+ MyTVSuper:				Failed (Network Connection)
+ Now E:					Failed (Network Connection)
+ Viu TV:				Failed (Network Connection)
+ Bahamut Anime:				Failed (Network Connection)
+ BiliBili China Mainland Only:		Failed (Network Connection)
+ BiliBili Hongkong/Macau/Taiwan:	Failed (Network Connection)
+ Bilibili Taiwan Only:Failed (Network Connection)
+ Abema.TV:				Failed (Network Connection)
+ Paravi:				Failed (Network Connection)
+ U Next:				Failed (Network Connection)
+ Hulu Japan:				Failed (Network Connection)
+ Princess Connect Re:Dive Japan:	Failed (Network Connection)
+ Pretty Derby Japan:			Failed (Network Connection)
+ Kancolle Japan:			No
+ Dazn:					Failed (Network Connection)
+ Netflix:				Failed (Network Connection)
+ YouTube Region:			Failed (Network Connection)
+ DisneyPlus:				Failed (Network Connection)
+ Steam Currency:			Failed (Network Connection)
