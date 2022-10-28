@@ -59,13 +59,13 @@ systemctl restart wg-quick@wg0
 
  ## Main Menu
 
-![IMG_20220627_092250_806](https://user-images.githubusercontent.com/108207883/175843517-06b4cea2-8e63-4c28-b325-c6b8e2588425.jpg)
+
 
 
 
   ## Status Running
  
-![IMG_20220321_093550](https://user-images.githubusercontent.com/96321013/159195645-0e972ccf-6fe0-41bf-8339-cdaa64f3041e.jpg)
+
 
   ## Service & Port
  
