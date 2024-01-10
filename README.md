@@ -65,7 +65,8 @@ systemctl restart wg-quick@wg0
 
 
   ## Status Running
- 
+ ![Screenshot_2024-01-10-22-48-50-34_3d419158bad5872c40592a6c9956e692](https://github.com/aziziangah92/ws/assets/65196881/13105989-0db4-40e2-afde-6231e2d90236)
+
 
 
   ## Service & Port
