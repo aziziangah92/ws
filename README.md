@@ -1,6 +1,8 @@
 # Script JIEVPN (V1-Websocket)
  Welcome Dear😊
 
+ ![ripbg](https://github.com/aziziangah92/ws/assets/65196881/4f1c1e77-1c51-449d-a955-7418715e3618)
+
  <h2 align="center">AutoScript VPN By JIEVPN <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
 
 
