@@ -58,6 +58,7 @@ systemctl restart wg-quick@wg0
  ## For Buy Script : Contact Telegram @jievpn <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
  ## Main Menu
+![Screenshot_2024-01-10-22-48-32-57_3d419158bad5872c40592a6c9956e692](https://github.com/aziziangah92/ws/assets/65196881/65ebe65b-7e79-4a17-bbdf-cd4d121be195)
 
 
 
